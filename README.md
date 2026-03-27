@@ -25,7 +25,6 @@ A Red-Black Tree is used as the core data structure to ensure efficient operatio
 ## How to Run
 
 ### Option 1: Using Makefile
-```bash
 make runApplication
 
 ### Option 2: Manual compilation
