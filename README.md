@@ -53,13 +53,13 @@ Technologies and Concepts used
 
 ### My Role
 Backend Developer
-	•	Implemented backend logic and data processing (Backend.java)
-	•	Designed functionality for loading, filtering, and querying data
-	•	Integrated backend with the Red-Black Tree structure
-	•	Implemented core data structures including:
-	    •	Binary Search Tree
-	    •	Red-Black Tree with balancing
-	    •	Iterator for sorted traversal
+- Implemented backend logic and data processing (Backend.java)
+- Designed functionality for loading, filtering, and querying data
+- Integrated backend with the Red-Black Tree structure
+- Implemented core data structures including:
+	- Binary Search Tree
+	- Red-Black Tree with balancing
+	- Iterator for sorted traversal
 
 
 ### Notes
