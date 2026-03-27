@@ -1,0 +1,27 @@
+import org.junit.jupiter.api.Tests;
+import java.util*;
+
+public class FrontendTests {
+	@Test
+	public boolean roleTest1() {
+		// Initialize parameter values for creating the Gamerecord
+		GameRecord.Continent location = new GameRecord.Continent(USA);
+		GameRecord testGameRecord = new GameRecord(
+		"Luray", location, 10, 12, 13, "111:12:22");
+		// The tree is not fully functional. 
+		// Creating the tree
+		IterableSortedCollection<GameRecord> tree;
+		Backend_Placeholder backend = new Backend_Placeholder(tree);
+		TextUITester textTester = new TextUITester
+		Frontend test = new Frontend (f , backend);
+	}
+	@Test
+	public boolean roleTest2();
+	@Test
+	public boolean roleTest3();
+	public static void main (String[] args) {
+		System.out.println("Status of roleTest1: " + roleTest1());
+		System.out.println("Status of roleTest2: " + roleTest2());
+		Ssytem.out.println("Status of roleTest3: " + roleTest3());
+	}
+}
