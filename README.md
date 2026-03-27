@@ -66,5 +66,5 @@ Backend Developer
 
 
 ### Notes
-	•	This project was developed as part of a team, with separate frontend and backend responsibilities.
-	•	The frontend handles user input and display, while the backend processes logic and interacts with the data structure.
+- This project was developed as part of a team, with separate frontend and backend responsibilities.
+- The frontend handles user input and display, while the backend processes logic and interacts with the data structure.
