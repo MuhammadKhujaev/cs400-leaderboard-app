@@ -1,7 +1,0 @@
-You have been assigned to group P1.1017 for project 1.
-
-Your assigned role for this project is: backend developer
-
-Your assigned role for this project is: frontend developer
-
-You can find your groupmates' introduction videos in this piazza post: https://piazza.com/class/mjugzaeza0z5gt/post/95
