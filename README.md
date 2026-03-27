@@ -10,6 +10,7 @@ Users can load data from a file, insert new records, apply filters, and display 
 The system is designed using a modular architecture with separate frontend and backend components.  
 A Red-Black Tree is used as the core data structure to ensure efficient operations with O(log n) time complexity.
 
+
 ## Features
 
 - Load leaderboard data from a CSV file (`records.csv`)
@@ -21,16 +22,18 @@ A Red-Black Tree is used as the core data structure to ensure efficient operatio
 - Sorted traversal using an in-order iterator
 - Efficient data operations using Red-Black Tree
 
-**## How to Run**
+## How to Run
 
 ### Option 1: Using Makefile
-- make runApplication
+```bash
+make runApplication
 
 ### Option 2: Manual compilation
-- javac *.java
-- java App
+javac *.java
+java App
 
 ### Example Commands
+Once the application is running, you can use commands like:
 - submit NAME CONTINENT SCORE DAMAGE_TAKEN COLLECTABLES COMPLETION_TIME
 - submit multiple FILEPATH
 - collectables MAX
@@ -41,7 +44,7 @@ A Red-Black Tree is used as the core data structure to ensure efficient operatio
 - help
 - quit
 
-### Technologies and Concepts used
+Technologies and Concepts used
 - Java (Object-Oriented Programming)
 - Red-Black Tree (self-balancing binary search tree)
 - Tree rotations (left/right)
